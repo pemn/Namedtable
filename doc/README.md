@@ -1,3 +1,3 @@
 # Documentation
 
-Work in progress... check examples for the time being.
+Work in progress... check examples and the source code comments for the time being.
