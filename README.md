@@ -24,3 +24,5 @@ Can be used as guideline for creating a equivalent library in other interpreted 
  - Create new columns automatically
  - Change value of row data using formulas
  - Call any functions visible in the current scope with the current row data
+- Synonyms. Columns may have multiple variants. Ex.: ['City','Site','Town','Location']
+
