@@ -7,6 +7,7 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 ## Features
 - Multiple input formats: csv,txt,prn,xls,xlsx and some proprietary formats (bmf,dm,dmp)
 - Multiple output formats: csv,txt,prn,xls,xlsx and zip (stream compressed csv)
+- Optional output as a "new" Excel sheet, which exists only in memory. User can then "Save As..." or close.
 - Can handle very large datasets which would exceed memory addressing limits using a optional "Tie File" interface.
 - Filter data using a condition. Ex.: 
  - `year > 2010`
