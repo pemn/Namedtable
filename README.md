@@ -16,3 +16,7 @@ Object oriented library for headered tables. Provides many tools for data manipu
  - count
  - major / weighted major
  - concatenate list
+- Evaluate expressions
+ - Create new columns automatically
+ - Change value of row data using formulas
+ - Call any functions visible in the current scope with the current row data
