@@ -18,6 +18,6 @@ Output: [state_x77_condition_output.csv](https://github.com/pemn/Namedtable/blob
 
 ## Example 3
 Create a new column with the sum of two existing columns  
-`perl seatbelts_evaluate.pl`
+`perl seatbelts_evaluate.pl` 
 Input: [seatbelts.csv](https://github.com/pemn/Namedtable/blob/master/examples/seatbelts.csv)  
 Output: [seatbelts_evaluate_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/seatbelts_evaluate_output.csv)  
