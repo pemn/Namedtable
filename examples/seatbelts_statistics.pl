@@ -1,6 +1,6 @@
 #!perl
 # example for Namedtables.pm
-# using state x77 sample data
+# using UK seatbelts data
 
 
 use strict;
