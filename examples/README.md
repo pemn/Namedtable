@@ -1,6 +1,8 @@
 # Examples
 
-Some examples using the least possible simple code.
+Some examples using the least possible simple code.  
+You must have the file Namedtable.pm in the current working directory (or somewhere the perl module search can find) for the examples to run.
+You can see the examples input and output just by opening them here in github.
 
 ## Example 1:
 Group data by year, weighted:  
