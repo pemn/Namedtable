@@ -11,7 +11,7 @@ Input: [seatbelts.csv](https://github.com/pemn/Namedtable/blob/master/examples/s
 Output: [seatbelts_statistics_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/seatbelts_statistics_output.csv)  
 
 ## Example 2:
-Income per capta only on states where income > 5000
+Income per capta only on states where income > 5000  
 `perl state_x77_condition.pl`  
 Input: [state_x77.csv](https://github.com/pemn/Namedtable/blob/master/examples/state_x77.csv)  
 Output: [state_x77_condition_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/state_x77_condition_output.csv)  
