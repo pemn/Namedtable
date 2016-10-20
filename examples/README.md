@@ -17,7 +17,7 @@ Input: [sales.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales
 Output: [sales_average_product_price_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales_average_product_price_output)  
 
 ## Example 3
-Group data by year, weighted by kms
+Group data by year, weighted by kms  
 `perl seatbelts_statistics.pl`  
 Input: [seatbelts.csv](https://github.com/pemn/Namedtable/blob/master/examples/seatbelts.csv)  
 Output: [seatbelts_statistics_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/seatbelts_statistics_output.csv)  
