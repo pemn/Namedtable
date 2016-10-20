@@ -30,6 +30,7 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 
 ## Examples
 Input: `sales.csv`  
+
 | Id | Client Name | Client Gender | Product | Quantity | Price |  
 | --- | --- | --- | --- | --- | --- |
 | 0 | John | Male | Bread | 2 | 10 |  
@@ -41,15 +42,17 @@ Input: `sales.csv`
 | 6 | Joe | Male | Cake | 1 | 20 |  
 
 Example of output, sales report:  
+
 | Product | Quantity |  
-| ------- | -------- |  
+| --- | --- |  
 | Beer |  6  |  
 | Bread |  3  |  
 | Cake |  1  |  
 | Soda |  1  |  
 | Tea |  1  |  
 
-Example of output, Average product price purchased, by gender:
+Example of output, Average product price purchased, by gender:  
+
 | Client Gender	| average product price |
 | --- | --- |
 | Male |	8.5 |
