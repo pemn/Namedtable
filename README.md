@@ -29,6 +29,7 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 - Synonyms. Columns may have multiple variants. Ex.: ['City','Site','Town','Location']
 
 ## Examples
+| --- | --- |  
 | Id | Client Name | Client Gender | Product | Quantity | Price |  
 | --- | --- |  
 | 0 | John | Male | Bread | 2 | 10 |  
