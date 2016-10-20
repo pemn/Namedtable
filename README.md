@@ -29,8 +29,7 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 - Synonyms. Columns may have multiple variants. Ex.: ['City','Site','Town','Location']
 
 ## Examples
-Sales Data:  
-
+Input: `sales.csv`  
 | Id | Client Name | Client Gender | Product | Quantity | Price |  
 | --- | --- | --- | --- | --- | --- |
 | 0 | John | Male | Bread | 2 | 10 |  
@@ -41,8 +40,7 @@ Sales Data:
 | 5 | Lucy | Female | Beer | 2 | 5 |  
 | 6 | Joe | Male | Cake | 1 | 20 |  
 
-Sales report:  
-
+Example of output, sales report:  
 | Product | Quantity |  
 | ------- | -------- |  
 | Beer |  6  |  
@@ -51,11 +49,11 @@ Sales report:
 | Soda |  1  |  
 | Tea |  1  |  
 
-Average product price purchased, by gender:
-
+Example of output, Average product price purchased, by gender:
 | Client Gender	| average product price |
 | --- | --- |
 | Male |	8.5 |
 | Female	| 6 |
 
+More examples with code in `examples`
 
