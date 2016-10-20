@@ -27,6 +27,8 @@ Can be used as guideline for creating a equivalent library in other interpreted 
  - Change value of row data using formulas
  - Call any functions visible in the current scope with the current row data
 - Synonyms. Columns may have multiple variants. Ex.: ['City','Site','Town','Location']
+- SQL-Like joins between two tables. Left,Right,Inner,Outer
+- Interval join. Join tables where data is delimited by both primary key and a distance field. Ex.: Drillholes, Roads, Historic Events
 
 ## Examples
 Input: `sales.csv`  
