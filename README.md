@@ -29,6 +29,8 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 - Synonyms. Columns may have multiple variants. Ex.: ['City','Site','Town','Location']
 
 ## Examples
+Sales Data:  
+
 | Id | Client Name | Client Gender | Product | Quantity | Price |  
 | --- | --- |  
 | 0 | John | Male | Bread | 2 | 10 |  
@@ -45,16 +47,17 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 | --- | --- |  
 | 6 | Joe | Male | Cake | 1 | 20 |  
 
-Sales report:
+Sales report:  
+
 | Product | Quantity |  
 | ------- | -------- |  
-| Beer |  6  |
+| Beer |  6  |  
 | ---- | --- |  
 | Bread |  3  |  
 | ----- | --- |  
 | Cake |  1  |  
 | ---- | --- |  
-| Soda |  1  |
+| Soda |  1  |  
 | --- | --- |  
 | Tea |  1  |  
 | --- | --- |  
