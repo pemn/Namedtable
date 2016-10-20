@@ -1,6 +1,6 @@
 # Namedtable
 Object oriented library for tables with header (tabular data where the first row in the column name). Tipical case is csv files.  
-Provides many tools for data manipulation and statistics.  
+Provides many tools for data manipulation and statistics. Some of these tools are very hard to find even in commercial packages.  
 Available as a standalone perl module. All required modules are standard in most perl distros.  
 Can be used as guideline for creating a equivalent library in other interpreted languages.  
 
