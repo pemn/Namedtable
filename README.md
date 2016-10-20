@@ -46,15 +46,15 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 | 6 | Joe | Male | Cake | 1 | 20 |  
 
 Sales report:
-| Product | Quantity |
+| Product | Quantity |  
+| ------- | -------- |  
+| Beer |  6  |
+| ---- | --- |  
+| Bread |  3  |  
+| ----- | --- |  
+| Cake |  1  |  
+| ---- | --- |  
+| Soda |  1  |
 | --- | --- |  
-| Beer | 6 |
-| --- | --- |  
-| Bread | 3 |  
-| --- | --- |  
-| Cake | 1 |  
-| --- | --- |  
-| Soda | 1 |
-| --- | --- |  
-| Tea | 1 |  
+| Tea |  1  |  
 | --- | --- |  
