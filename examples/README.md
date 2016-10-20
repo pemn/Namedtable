@@ -8,13 +8,13 @@ You can see the examples input and output just by opening them here in github.
 Sales Report  
 `perl sales_report.pl`  
 Input: [sales.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales.csv)  
-Output: [sales_report_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales_report_output)  
+Output: [sales_report_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales_report_output.csv)  
 
 ## Example 2
 Average price of products purchased, by gender  
 `perl sales_average_product_price.pl`  
 Input: [sales.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales.csv)  
-Output: [sales_average_product_price_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales_average_product_price_output)  
+Output: [sales_average_product_price_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales_average_product_price_output.csv)  
 
 ## Example 3
 Group data by year, weighted by kms  
