@@ -44,3 +44,17 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 | 5 | Lucy | Female | Beer | 2 | 5 |  
 | --- | --- |  
 | 6 | Joe | Male | Cake | 1 | 20 |  
+
+Sales report:
+| Product | Quantity |
+| --- | --- |  
+| Beer | 6 |
+| --- | --- |  
+| Bread | 3 |  
+| --- | --- |  
+| Cake | 1 |  
+| --- | --- |  
+| Soda | 1 |
+| --- | --- |  
+| Tea | 1 |  
+| --- | --- |  
