@@ -11,7 +11,7 @@ Input: [sales.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales
 Output: [sales_report_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales_report_output)  
 
 ## Example 2
-Average price of products purchased, by gender
+Average price of products purchased, by gender  
 `perl sales_average_product_price.pl`  
 Input: [sales.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales.csv)  
 Output: [sales_average_product_price_output.csv](https://github.com/pemn/Namedtable/blob/master/examples/sales_average_product_price_output)  
