@@ -50,3 +50,12 @@ Sales report:
 | Cake |  1  |  
 | Soda |  1  |  
 | Tea |  1  |  
+
+Average product price purchased, by gender:
+
+| Client Gender	| average product price |
+| --- | --- |
+| Male |	8.5 |
+| Female	| 6 |
+
+
