@@ -32,19 +32,13 @@ Can be used as guideline for creating a equivalent library in other interpreted 
 Sales Data:  
 
 | Id | Client Name | Client Gender | Product | Quantity | Price |  
-| --- | --- |  
+| --- | --- | --- | --- | --- | --- |
 | 0 | John | Male | Bread | 2 | 10 |  
-| --- | --- |  
 | 1 | John | Male | Soda | 1 | 8 |  
-| --- | --- |  
 | 2 | Mary | Female | Tea | 1 | 4 |  
-| --- | --- |  
 | 3 | Bob | Male | Beer | 4 | 5 |  
-| --- | --- |  
 | 4 | Ann | Female | Bread | 1 | 10 |  
-| --- | --- |  
 | 5 | Lucy | Female | Beer | 2 | 5 |  
-| --- | --- |  
 | 6 | Joe | Male | Cake | 1 | 20 |  
 
 Sales report:  
@@ -52,12 +46,7 @@ Sales report:
 | Product | Quantity |  
 | ------- | -------- |  
 | Beer |  6  |  
-| ---- | --- |  
 | Bread |  3  |  
-| ----- | --- |  
 | Cake |  1  |  
-| ---- | --- |  
 | Soda |  1  |  
-| --- | --- |  
 | Tea |  1  |  
-| --- | --- |  
