@@ -3,7 +3,7 @@ Object oriented library for tables with header (tabular data where the first row
 Provides many tools for data manipulation and statistics. Some of these tools are very hard to find even in commercial packages.  
 Available as a standalone perl module. All required modules are standard in most perl distros.  
 Can be used as guideline for creating a equivalent library in other interpreted languages.  
-Its similar in concept and features to pythons pandas Dataframe library.
+Its similar in concept and features to python pandas.Dataframe library.
 
 ## Features
 - Multiple input formats: csv,txt,prn,xls,xlsx and some proprietary formats (bmf,dm,dmp)
